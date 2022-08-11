@@ -36,4 +36,4 @@ class UI {
   };
 }
 
-exp
+export default UI;
